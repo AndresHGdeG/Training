@@ -5,3 +5,10 @@ line 0.1
 This file has no porpouse but practice
 fix bug 2
 line 1line 2
+fix bug 3
+fix bug 5-1
+fix bug 5-2
+line 1line 2
+bug 6-1
+bug 6-2
+------
