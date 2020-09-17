@@ -3,4 +3,5 @@ this will be the release 1
 line 0
 line 0.1
 This file has no porpouse but practice
+fix bug 2
 line 1line 2
