@@ -5,3 +5,4 @@ fix bug 2
 fix bug 3
 line 1line 2
 bug 6-1
+bug 6-2
