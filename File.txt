@@ -1,5 +1,6 @@
 <------------------------------------BEGIN: [Master local]------------------------------------>
 LINE 1
+line master local 1
 LINE 2
 LINE 3
 LINE 4
