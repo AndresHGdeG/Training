@@ -10,6 +10,7 @@ bug 6-1
 bug 6-2
 <------------------------------------BEGIN: [MASTER CHANGE GIT]-------------------------------->
 LINE 1
+master line 1
 LINE 2
 LINE 3
 LINE 4
