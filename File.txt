@@ -22,6 +22,7 @@ This line is added in github
 <-----------------------------------BEGIN: [FETCH AND MERGE]------------------------------->
 LINEA 1
 line git 1
+line git 2
 LINEA 2
 LINEA 3
 LINEA 4
