@@ -28,5 +28,6 @@ LINEA 3
 LINEA 4
 LINEA 5
 line local 1
+line local 2
 LINEA 6
 <------------------------------------END: [FETCH AND MERGE]-------------------------------->
