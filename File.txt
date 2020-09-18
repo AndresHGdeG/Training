@@ -11,6 +11,7 @@ bug 6-2
 <------------------------------------BEGIN: [MASTER CHANGE GIT]-------------------------------->
 LINE 1
 master line 1
+master line 2
 LINE 2
 LINE 3
 LINE 4
