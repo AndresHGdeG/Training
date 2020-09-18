@@ -12,7 +12,7 @@ bug 6-2
 LINE 1
 T1_line_1
 LINE 2
-LINE 3
+LINE 3 Edit T1_line_3
 LINE 4
 T1_line_2
 LINE 5
