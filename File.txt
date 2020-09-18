@@ -37,3 +37,24 @@ LINE 5
 <------------------------------------BEGIN: [Work Flow]------------------------------------>
 
 This line is added in github
+<-----------------------------------BEGIN: [FETCH AND MERGE]------------------------------->
+LINEA 1
+line git 1
+line git 2
+LINEA 2
+LINEA 3
+LINEA 4
+LINEA 5
+line local 1
+line local 2
+LINEA 6
+<------------------------------------END: [FETCH AND MERGE]-------------------------------->
+<------------------------------------BEGIN:[REVERT PROCESS]-------------------------------->
+LINE 1
+change 1 added
+LINE 2
+LINE 3
+LINE 4
+LINE 5
+LINE 6
+<-------------------------------------END:[REVERT PROCESS]--------------------------------->
